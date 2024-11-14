@@ -12,5 +12,5 @@ API Back-end for Front-end (BFF) para a tela de sorteios, construída em .NET 6.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sorteio-bff.git
+   git clone https://github.com/MATHEUS-F-BORGES/sorteio-bff.git
    cd sorteio-bff
